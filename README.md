@@ -13,7 +13,7 @@ After understanding the dataset we have, go directly to the file [SANBOX] DS PRO
 
 #### Notes: Skip the sections in Colab until Data Cleaning + Feature Engineering (FE).
 
-#### **Laptop ID: **
+#### __Laptop ID: __
 What we do in the Laptop ID section is remove the laptop ID. This is done because the laptop_id doesn't have any meaning in the data, so its role can be replaced with the index.
 
 #### **Screen Resolution:** 
