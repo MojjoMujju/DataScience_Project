@@ -11,9 +11,9 @@ If you're interested in this topic, the first step is to click on the dataset fi
 ### Step 2:
 After understanding the dataset we have, go directly to the file [SANBOX] DS PROJECT 1.ipynb. This will guide you through the steps of preparing and visualizing the data.
 
-#### Notes: Skip the sections in Colab until Data Cleaning + Feature Engineering (FE).
+#### **Notes:** Skip the sections in Colab until Data Cleaning + Feature Engineering (FE).
 
-#### Laptop ID: What we do in the Laptop ID section is remove the laptop ID. This is done because the laptop_id doesn't have any meaning in the data, so its role can be replaced with the index.
+#### **Laptop ID:** What we do in the Laptop ID section is remove the laptop ID. This is done because the laptop_id doesn't have any meaning in the data, so its role can be replaced with the index.
 
 #### Screen Resolution: What we do in this section is extract the screen resolution, such as '2560x1600', using regex. We also categorize the screens into two groups, touch screen and non-touch screen.
 
